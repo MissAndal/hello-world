@@ -1,5 +1,5 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+
+GET TO KNOW VIOLENE
 
 
 My name is Violene Atieno Andal, a passionate and dedicated technology enthusiast with a Bachelor's degree in Information Technology from Great Lakes University of Kisumu. With a strong foundation in IT.
